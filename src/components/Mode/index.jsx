@@ -17,9 +17,9 @@ const ThemeIcon = () => {
   return (
     <span onClick={handleMode} className='theme-icon'>
       {darkTheme ? (
-        <FaSun size='28'/>
-      ) : (
         <FaMoon size='28'/>
+      ) : (
+        <FaSun size='28'/>
       )}</span>
   );
 };

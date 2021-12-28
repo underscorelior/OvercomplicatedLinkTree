@@ -21,9 +21,9 @@
 
 @layer components {
   .maintext {
-    @apply content-center select-none font-extrabold text-transparent sm:text-8xl text-4xl flex justify-center pt-64 pb-8
-    dark:bg-clip-text dark:bg-gradient-to-l dark:from-indigo-700 dark:via-purple-500 dark:to-pink-500 
-    bg-clip-text bg-gradient-to-l from-indigo-700 via-blue-500 to-blue-300
+    @apply content-center select-none font-extrabold text-transparent sm:text-8xl text-4xl flex justify-center pt-72 pb-8
+    bg-clip-text bg-gradient-to-l from-indigo-700 via-purple-500 to-pink-500 
+    dark:bg-clip-text dark:bg-gradient-to-l dark:from-indigo-700 dark:via-blue-500 dark:to-blue-300
   }
   .theme-icon {
     @apply h-12 w-12 items-center flex justify-center rounded-3xl 
@@ -31,20 +31,20 @@
     text-indigo-300 dark:text-gray-700
   } 
   .links-icon {
-    @apply h-12 w-12 mt-2 mb-2 ml-3 mr-3 sm:ml-6 sm:mr-6 text-5xl 
+    @apply h-16 w-16 mt-2 mb-2 ml-3 mr-3 sm:ml-6 sm:mr-6 text-5xl 
     items-center flex justify-center hover:rounded-xl rounded-3xl
     transition-all duration-300 ease-linear cursor-pointer hover:text-white;
   }
   .github-icon {
-    @apply hover:bg-gradient-to-l from-gh via-ghl to-gh 
-    dark:hover:bg-gradient-to-l dark:from-gray-100 dark:via-white dark:to-gray-100
-    text-gh dark:text-white dark:hover:text-gh dark:hover:bg-white
+    @apply dark:hover:bg-gradient-to-l dark:from-gh dark:via-ghl dark:to-gh 
+    hover:bg-gradient-to-l from-gray-100 via-white to-gray-100
+    dark:text-gh text-white hover:text-gh hover:bg-white
   }
   .discord-icon {
-    @apply 	hover:bg-gradient-to-r from-blurple via-indigo-400 to-blurplel dark:hover:bg-blurple text-blurple
+    @apply 	hover:bg-gradient-to-r from-blurple via-blurplel to-blurple dark:hover:bg-blurple text-blurple
   }
   .twitch-icon {
-    @apply hover:bg-gradient-to-l from-purple-600 via-indigo-500 to-purple-500 dark:hover:bg-purple-600 text-purple-500
+    @apply hover:bg-gradient-to-l from-purple-600 via-purple-500 to-purple-600 dark:hover:bg-purple-600 text-purple-500
   }
   .yt-icon {
     @apply hover:bg-gradient-to-l from-red-600 via-red-500 to-red-600 hover:bg-red-600  dark:hover:bg-red-600 text-red-500
