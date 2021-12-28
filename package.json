@@ -1,6 +1,6 @@
 {
     "name": "underscorewtf",
-    "homepage": "http://underscore.wtf/",
+    "homepage": "http://underscorelior.github.io/bruh",
     "dependencies": {
         "@craco/craco": "^6.3.0",
         "@headlessui/react": "^1.4.2",
