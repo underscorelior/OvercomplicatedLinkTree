@@ -19,7 +19,7 @@
 
 @layer components {
   .maintext {
-    @apply content-center select-none font-extrabold text-transparent text-8xl flex justify-center pt-64 pb-8
+    @apply content-center select-none font-extrabold text-transparent sm:text-8xl text-4xl flex justify-center pt-64 pb-8
     dark:bg-clip-text dark:bg-gradient-to-l dark:from-indigo-700 dark:via-purple-500 dark:to-pink-500 
     bg-clip-text bg-gradient-to-l from-indigo-700 via-blue-500 to-blue-300
   }
