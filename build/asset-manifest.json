@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/bruh/static/css/main.cceb3900.chunk.css",
-    "main.js": "/bruh/static/js/main.a8178b26.chunk.js",
-    "main.js.map": "/bruh/static/js/main.a8178b26.chunk.js.map",
-    "runtime-main.js": "/bruh/static/js/runtime-main.2a792ed0.js",
-    "runtime-main.js.map": "/bruh/static/js/runtime-main.2a792ed0.js.map",
-    "static/js/2.711d0b1b.chunk.js": "/bruh/static/js/2.711d0b1b.chunk.js",
-    "static/js/2.711d0b1b.chunk.js.map": "/bruh/static/js/2.711d0b1b.chunk.js.map",
-    "index.html": "/bruh/index.html",
-    "static/css/main.cceb3900.chunk.css.map": "/bruh/static/css/main.cceb3900.chunk.css.map",
-    "static/js/2.711d0b1b.chunk.js.LICENSE.txt": "/bruh/static/js/2.711d0b1b.chunk.js.LICENSE.txt"
+    "main.css": "/oklmao/static/css/main.cceb3900.chunk.css",
+    "main.js": "/oklmao/static/js/main.a8178b26.chunk.js",
+    "main.js.map": "/oklmao/static/js/main.a8178b26.chunk.js.map",
+    "runtime-main.js": "/oklmao/static/js/runtime-main.d01aee5f.js",
+    "runtime-main.js.map": "/oklmao/static/js/runtime-main.d01aee5f.js.map",
+    "static/js/2.711d0b1b.chunk.js": "/oklmao/static/js/2.711d0b1b.chunk.js",
+    "static/js/2.711d0b1b.chunk.js.map": "/oklmao/static/js/2.711d0b1b.chunk.js.map",
+    "index.html": "/oklmao/index.html",
+    "static/css/main.cceb3900.chunk.css.map": "/oklmao/static/css/main.cceb3900.chunk.css.map",
+    "static/js/2.711d0b1b.chunk.js.LICENSE.txt": "/oklmao/static/js/2.711d0b1b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2a792ed0.js",
+    "static/js/runtime-main.d01aee5f.js",
     "static/js/2.711d0b1b.chunk.js",
     "static/css/main.cceb3900.chunk.css",
     "static/js/main.a8178b26.chunk.js"
